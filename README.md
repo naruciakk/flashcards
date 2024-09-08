@@ -1,2 +1,2 @@
-### Flashcards
-Here are some flashcards for Anki. Enjoy
+# Flashcards
+Here are some flashcards for Anki
