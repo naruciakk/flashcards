@@ -1,0 +1,100 @@
+and	καί
+καί	and
+ὁ, ἡ, τό	definite article, Nominativus
+definite article, Nominativus	ὁ, ἡ, τό
+οὐ,&nbsp;οὐκ,&nbsp;οὐχ	no, not (in negation)
+no, not (in negation)	οὐ,&nbsp;οὐκ,&nbsp;οὐχ
+ἐν (Dativus)	in, inside
+in, inside	ἐν (Dativus)
+διά (Accusativus/Dativus)	through,because of/through,between,by,after
+through,because of/through,between,by,after	διά (Accusativus/Dativus)
+τίς,τί	who? what?
+who? what?	τίς,τί
+τις,τι	someone, something
+someone, something	τις,τι
+θεός	God
+God	θεός
+ἄνθρωπος	man, person
+man, person	ἄνθρωπος
+οὐρᾰνός	sky,heaven
+sky,heaven	οὐρᾰνός
+ἔργον	deed,doing,action,labour,task
+deed,doing,action,labour,task	ἔργον
+ἅγιος,&nbsp;ἅγιa,&nbsp;ἅγιον	saint (m., f., n.)
+saint (m., f., n.)	ἅγιος,&nbsp;ἅγιa,&nbsp;ἅγιον
+Ἰησοῦς	Jesus
+Jesus	Ἰησοῦς
+ἀδελφός	brother
+brother	ἀδελφός
+ἔρχομαι	to come
+to come	ἔρχομαι
+καρπός	fruit
+fruit	καρπός
+κόσμος	world
+world	κόσμος
+ἰατρός	physician, surgeon
+physician, surgeon	ἰατρός
+έχω	to have
+to have	έχω
+λέγω	to say, to speak, to tell a story
+to say, to speak, to tell a story	λέγω
+πιστεύω	to have faith, to entrust
+to have faith, to entrust	πιστεύω
+υἱός	son, child
+son, child	υἱός
+ποῦ	where? how?
+where? how?	ποῦ
+ἐκ,&nbsp;ἐξ (Genitivus)	out of, from, since
+out of, from, since	ἐκ,&nbsp;ἐξ (Genitivus)
+εἰς (Accusativus)	into
+into	εἰς (Accusativus)
+λόγος	word, sentence, speech, story, reason, narrative
+word, sentence, speech, story, reason, narrative	λόγος
+κύριος	lord, master, owner
+lord, master, owner	κύριος
+οἶκος	home, house, estate
+home, house, estate	οἶκος
+ἄγγελος	angel
+angel	ἄγγελος
+λύω	to loose, untie
+to loose, untie	λύω
+ἀκούω	to hear, to listen to
+to hear, to listen to	ἀκούω
+γινώσκω	to know
+to know	γινώσκω
+βλέπω	to look at, to see
+to look at, to see	βλέπω
+διδάσκαλος	teacher, master
+teacher, master	διδάσκαλος
+πολύς	many, a lot of
+many, a lot of	πολύς
+καρδία	heart
+heart	καρδία
+ἡμέρα	day
+day	ἡμέρα
+βασιλεία	kingdom
+kingdom	βασιλεία
+ἁμαρτία	mistake, sin
+mistake, sin	ἁμαρτία
+μετάνοια	afterthought
+afterthought	μετάνοια
+φωνή	sound
+sound 	φωνή
+γῆ	land, earth
+land, earth	γῆ
+to love	ἀγαπάω
+ἀγαπάω	to love
+εἰρήνη	peace
+peace	εἰρήνη
+ἀρχή	beginning, authority
+beginning, authority	ἀρχή
+ἅγιος	sacred, holy
+sacred, holy	ἅγιος
+καλός	beautiful
+beautiful	καλός
+ἱκανός	adequate
+adequate	ἱκανός
+ἀγαπητός	beloved, dear
+beloved, dear	ἀγαπητός
+ἀγαθός	good, brave, noble
+good, brave, noble	ἀγαθός
